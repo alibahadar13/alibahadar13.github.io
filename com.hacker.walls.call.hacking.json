@@ -174,6 +174,38 @@
       "https://i.pinimg.com/564x/c8/f8/00/c8f800b53321c24372600018ccd5590d.jpg"
     ]
   },
+  "approving_wallpapers": {
+    "wallpapers": [
+      "https://i.pinimg.com/564x/70/cb/86/70cb86e7d3a1551d080fb3fbe4eb0b35.jpg",
+      "https://i.pinimg.com/564x/5f/62/44/5f6244334a8db1d4209c955ddb5d828d.jpg",
+      "https://i.pinimg.com/564x/02/8b/e2/028be2816aa511ffa1694e32497cd084.jpg",
+      "https://i.pinimg.com/564x/28/f7/19/28f71996cb5dfc4d6144da90e56fe06a.jpg",
+      "https://i.pinimg.com/564x/0c/61/0b/0c610bce5ea2911a9d635b494ebe7d72.jpg",
+      "https://i.pinimg.com/564x/d4/20/f4/d420f426ffd6d93e10ca9957fcac3dd9.jpg",
+      "https://i.pinimg.com/564x/f3/36/2e/f3362ededad6185cafbcd421aa8f8ab3.jpg",
+      "https://i.pinimg.com/564x/ba/e4/43/bae443321e8d934d7d7868d019995a05.jpg",
+      "https://i.pinimg.com/564x/91/1d/3a/911d3a402d290bbbbf1c47cac5c47263.jpg",
+      "https://i.pinimg.com/564x/02/37/5f/02375f9a0b1d65a1e2160a1822d2b060.jpg",
+      "https://i.pinimg.com/564x/67/aa/e0/67aae04b0ba74076ddabef3b2980e9b8.jpg",
+      "https://i.pinimg.com/564x/6a/c1/59/6ac1592ce83db4d3d524051cdabdb0fa.jpg",
+      "https://i.pinimg.com/564x/b7/db/51/b7db51dd9c23ced3d368bbac035e2c2a.jpg",
+      "https://i.pinimg.com/564x/d5/93/c4/d593c4465c4a5621399263224a639633.jpg",
+      "https://i.pinimg.com/564x/06/d3/9b/06d39b63fe8ea5b5727d890830fc3af9.jpg",
+      "https://i.pinimg.com/564x/80/4a/ac/804aac30844be1687d71a7c58da07dca.jpg",
+      "https://i.pinimg.com/564x/fc/08/09/fc0809ae6f52c220e4a25003660ed02a.jpg",
+      "https://i.pinimg.com/564x/c4/2e/e2/c42ee2e73b32090bdf5c40c2e749f367.jpg",
+      "https://i.pinimg.com/564x/40/2f/02/402f02be4bc7820bb5f5485f1b1039fe.jpg",
+      "https://i.pinimg.com/564x/6d/e5/36/6de536d62c3863f2ee59c469b3438f69.jpg",
+      "https://i.pinimg.com/564x/91/30/6a/91306a35202d546ed56555f4bb2d45fe.jpg",
+      "https://i.pinimg.com/564x/ee/a9/eb/eea9ebcb40e9fb66182433aff05ed67e.jpg",
+      "https://i.pinimg.com/564x/c4/cf/cc/c4cfcc9434a058f775c9beddc0589caf.jpg",
+      "https://i.pinimg.com/564x/5c/63/1b/5c631b25a0cc701e601bc525197bbaac.jpg",
+      "https://i.pinimg.com/564x/2e/e2/d8/2ee2d855dd54766709fc0cee21ddf0e1.jpg",
+      "https://i.pinimg.com/564x/0c/61/0b/0c610bce5ea2911a9d635b494ebe7d72.jpg",
+      "https://i.pinimg.com/564x/c8/19/8c/c8198cf58cc0d06ddb059026c9c447b2.jpg",
+      "https://i.pinimg.com/564x/c8/f8/00/c8f800b53321c24372600018ccd5590d.jpg"
+    ]
+  },
   "ad_settings": {
     "ad_priority": [
       "admob",
@@ -189,7 +221,7 @@
       "appLovin",
       "any"
     ],
-    "interstitial_ad_count": 5,
+    "interstitial_ad_count": 8,
     "is_ios_approving": false,
     "is_android_approving": true
   }
