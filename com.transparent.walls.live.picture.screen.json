@@ -101,8 +101,8 @@
   },
   "ad_settings": {
     "ad_priority": [
-      "admob",
       "facebook",
+      "admob",
       "unity",
       "appLovin",
       "any"
