@@ -101,8 +101,8 @@
   },
   "ad_settings": {
     "ad_priority": [
-      "facebook",
       "admob",
+      "facebook",
       "unity",
       "appLovin",
       "any"
@@ -116,6 +116,6 @@
     ],
     "interstitial_ad_count": 2,
     "is_ios_approving": false,
-    "is_android_approving": false
+    "is_android_approving": true
   }
 }
