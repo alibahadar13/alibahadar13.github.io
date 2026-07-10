@@ -1,6 +1,6 @@
 {
-  "_app_url_apple": "com.example.hacking_wallpapers",
-  "_app_url_play": "com.prank.sounds.fart.funny.horn.ab",
+  "_app_url_apple": "com.expense.tracker.budget.money.ab",
+  "_app_url_play": "com.expense.tracker.budget.money.ab",
   "ad_settings": {
     "ad_priority": [
       "admob",
@@ -16,8 +16,8 @@
       "appLovin",
       "any"
     ],
-    "interstitial_ad_count": 2,
+    "interstitial_ad_count": 10,
     "is_ios_approving": false,
-    "is_android_approving": false
+    "is_android_approving": true
   }
 }
