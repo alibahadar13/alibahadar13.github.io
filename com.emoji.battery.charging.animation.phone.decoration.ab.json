@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "banner_enabled": true,
   "interstitial_enabled": true,
-  "interstitial_every": 3,
+  "interstitial_every": 2,
   "rewarded_enabled": true,
   "ad_keywords": ["battery", "charging animation", "emoji", "widgets", "personalization"]
 }
